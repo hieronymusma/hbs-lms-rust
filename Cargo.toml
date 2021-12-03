@@ -18,6 +18,7 @@ categories = ["cryptography", "no-std"]
 sha2 = { version = "0.9.5", default-features = false }
 arrayvec = { version = "0.7.1", default-features = false }
 rand = { version = "0.8.3", optional = true }
+signature = "1.4.0"
 
 
 [dev-dependencies]
